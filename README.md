@@ -119,4 +119,4 @@ Firebase Admin SDK debe estar previamente inicializado en la aplicación, cargan
 
 Este backend está diseñado para trabajar en conjunto con la aplicación cliente .NET MAUI disponible aquí:
 
-**[MAUINotificationApp](#)**
+[MAUINotificationApp](https://github.com/pLorente005/MAUINotificationApp)
